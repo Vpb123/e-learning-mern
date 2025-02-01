@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "67922f18618ddbc86e1a1ee9"
+  },
+  "name": "Vishwajit Deshpande",
+  "email": "vishwajit20bhagat@gmail.com",
+  "password": "$2a$10$ceomvGRYR7sRQ6QKCd.aG.1P.QZRFuHO/QM.1cTd/YYK9t/qBWOUy",
+  "role": "student",
+  "enrolledCourses": [
+    {
+      "$oid": "6792413624d1ce42077e63e4"
+    },
+    {
+      "$oid": "67929c3f006e306d46c69e12"
+    },
+    {
+      "$oid": "6792310d618ddbc86e1a1efe"
+    },
+    {
+      "$oid": "6792d596006e306d46c69fdc"
+    },
+    {
+      "$oid": "6792d654006e306d46c69fe6"
+    },
+    {
+      "$oid": "6792d6f8006e306d46c69fed"
+    },
+    {
+      "$oid": "6792d80d006e306d46c69ff4"
+    },
+    {
+      "$oid": "6792d8e5006e306d46c69ffb"
+    },
+    {
+      "$oid": "6794c7cdacf8bd68c27fc278"
+    }
+  ],
+  "photoUrl": "https://res.cloudinary.com/di3ipwceg/image/upload/v1737804653/tivuynwcf7ioxqfiuq8n.jpg",
+  "createdAt": {
+    "$date": "2025-01-23T11:59:20.194Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-25T11:30:54.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67922f93618ddbc86e1a1ef0"
+  },
+  "name": "Nicolas Green",
+  "email": "nicolas.green@soton.ac.uk",
+  "password": "$2a$10$1P.hzmh3OzmnVQ0OpFJ0Y.lMtnrr5dxVlmCEoEAEN0w/6Vt5euRQW",
+  "role": "instructor",
+  "enrolledCourses": [],
+  "photoUrl": "",
+  "createdAt": {
+    "$date": "2025-01-23T12:01:23.284Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-23T12:01:23.284Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67923b85618ddbc86e1a20bf"
+  },
+  "name": "Alice Brown",
+  "email": "alice20brown@gmail.com",
+  "password": "$2a$10$Uc04XYWXlcrt/lgwnetYtOBJbL8UvGJpnTDayABhmwMyumD7OVXOy",
+  "role": "student",
+  "enrolledCourses": [],
+  "photoUrl": "",
+  "createdAt": {
+    "$date": "2025-01-23T12:52:21.393Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-23T12:52:21.393Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67925b198fb99492b5ac8a9a"
+  },
+  "name": "shuimu zeng",
+  "email": "shuimu@gmail.com",
+  "password": "$2a$10$VVRTDyHfUURlByjiKY4NUuVZKPUK8e/.8Yz9AasZqBjFTLgie/TNa",
+  "role": "student",
+  "enrolledCourses": [
+    {
+      "$oid": "6792310d618ddbc86e1a1efe"
+    }
+  ],
+  "photoUrl": "",
+  "createdAt": {
+    "$date": "2025-01-23T15:07:05.460Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-23T19:30:40.657Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6792b555006e306d46c69f91"
+  },
+  "name": "John Mikalson",
+  "email": "john.mikalson@hotmail.com",
+  "password": "$2a$10$coRalKmsXhrZV6Za.L0g1unoElxlX99qbbKcE.TXalnHMOoD77jr6",
+  "role": "student",
+  "enrolledCourses": [
+    {
+      "$oid": "6792310d618ddbc86e1a1efe"
+    }
+  ],
+  "photoUrl": "",
+  "createdAt": {
+    "$date": "2025-01-23T21:32:05.940Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-23T21:35:55.421Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6792d4b4006e306d46c69fd0"
+  },
+  "name": "Reza Zadeh",
+  "email": "rezazadeh@soton.ac.uk",
+  "password": "$2a$10$Vy0lJUoQhiftcTLurdKbXuLFgK2HT4DCVuqIOnbbi3Od0WAfvELIu",
+  "role": "instructor",
+  "enrolledCourses": [],
+  "photoUrl": "",
+  "createdAt": {
+    "$date": "2025-01-23T23:45:56.288Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-23T23:45:56.288Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6794ca09acf8bd68c27fc2dc"
+  },
+  "name": "Vishwajit Bhagat",
+  "email": "vishwajitbhagat768@gmail.com",
+  "password": "$2a$10$OEm9D2XlojVjBZTnFwhXx.omri.AHpDaFKFGYpdy90LK2munGg0VC",
+  "role": "student",
+  "enrolledCourses": [],
+  "photoUrl": "",
+  "createdAt": {
+    "$date": "2025-01-25T11:24:57.430Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-25T11:24:57.430Z"
+  },
+  "__v": 0
+}]

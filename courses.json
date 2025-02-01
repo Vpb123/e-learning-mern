@@ -1,0 +1,460 @@
+[{
+  "_id": {
+    "$oid": "6792310d618ddbc86e1a1efe"
+  },
+  "courseTitle": "JavaScript From Zero to Hero",
+  "category": "Javascript",
+  "enrolledStudents": [
+    {
+      "$oid": "67925b198fb99492b5ac8a9a"
+    },
+    {
+      "$oid": "6792b555006e306d46c69f91"
+    },
+    {
+      "$oid": "67922f18618ddbc86e1a1ee9"
+    }
+  ],
+  "lectures": [
+    {
+      "$oid": "6792370c618ddbc86e1a1f1a"
+    },
+    {
+      "$oid": "6792373f618ddbc86e1a1f24"
+    },
+    {
+      "$oid": "67923763618ddbc86e1a1f2e"
+    }
+  ],
+  "creator": {
+    "$oid": "67922f93618ddbc86e1a1ef0"
+  },
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-01-23T12:07:41.220Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-25T11:33:03.627Z"
+  },
+  "__v": 4,
+  "courseLevel": "Beginner",
+  "coursePrice": 499,
+  "courseThumbnail": "https://res.cloudinary.com/di3ipwceg/image/upload/v1737634635/k47piqnidn1ixbq42b26.webp",
+  "description": "<p>Unlock the power of JavaScript with our comprehensive course designed for beginners and aspiring developers. Whether you're starting from scratch or looking to solidify your understanding, this course will guide you through the fundamentals to advanced concepts of JavaScript.</p><h3><strong>What You'll Learn:</strong></h3><ul><li>Basics of JavaScript: Understand variables, data types, and control structures.</li><li>Functions and Objects: Master the building blocks of JavaScript programming.</li><li>DOM Manipulation: Learn how to interact with and modify web pages dynamically.</li><li>ES6 and Beyond: Get up-to-date with the latest features and syntax of modern JavaScript.</li><li>Asynchronous Programming: Dive into promises, async/await, and handling asynchronous operations.</li><li>Real-World Projects: Apply your skills by building interactive web applications and solving practical problems.</li></ul><h3><strong>Why Choose This Course?</strong></h3><ul><li>Hands-On Learning: Engage with interactive coding exercises and real-world projects.</li><li>Expert Instructors: Learn from industry professionals with years of experience.</li><li>Community Support: Join a vibrant community of learners and get help when you need it.</li><li>Flexible Learning: Study at your own pace with lifetime access to course materials.</li></ul><p>By the end of this course, you'll have the confidence and skills to build dynamic, responsive websites and applications. Embark on your journey from zero to hero in JavaScript today!</p>",
+  "subTitle": "Become a pro at JavaScript withing 15 days"
+},{
+  "_id": {
+    "$oid": "6792d596006e306d46c69fdc"
+  },
+  "courseTitle": "Mastering Next.js: The Complete Guide",
+  "category": "Next JS",
+  "enrolledStudents": [
+    {
+      "$oid": "67922f18618ddbc86e1a1ee9"
+    }
+  ],
+  "lectures": [
+    {
+      "$oid": "67937011006e306d46c6a01d"
+    }
+  ],
+  "creator": {
+    "$oid": "6792d4b4006e306d46c69fd0"
+  },
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-01-23T23:49:42.816Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T13:02:51.913Z"
+  },
+  "__v": 1,
+  "courseLevel": "Beginner",
+  "coursePrice": 499,
+  "courseThumbnail": "https://res.cloudinary.com/di3ipwceg/image/upload/v1737676296/sq7davbrrmmdtqeffmhz.jpg",
+  "description": "<p>Unlock the potential of Next.js to create modern, SEO-friendly web applications. From server-side rendering to API integration, this course covers everything you need to master Next.js.</p><h3><strong>What You'll Learn:</strong></h3><ul><li><strong>Core Concepts</strong>: Server-side rendering, dynamic routing, and API integration.</li><li><strong>Performance Optimization</strong>: Build fast, scalable apps.</li><li><strong>Real-World Projects</strong>: Apply concepts to build production-ready applications.</li></ul><h3><strong>Why Choose This Course?</strong></h3><p>Hands-on learning, expert guidance, and lifetime access to ensure you excel in building powerful web applications.</p>",
+  "subTitle": "Build Scalable and High-Performance Web Apps"
+},{
+  "_id": {
+    "$oid": "6792d654006e306d46c69fe6"
+  },
+  "courseTitle": "Next.js for Beginners: Zero to Hero",
+  "category": "Next JS",
+  "enrolledStudents": [
+    {
+      "$oid": "67922f18618ddbc86e1a1ee9"
+    }
+  ],
+  "lectures": [
+    {
+      "$oid": "67937135006e306d46c6a02d"
+    }
+  ],
+  "creator": {
+    "$oid": "6792d4b4006e306d46c69fd0"
+  },
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-01-23T23:52:52.864Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T13:04:11.333Z"
+  },
+  "__v": 1,
+  "courseLevel": "Beginner",
+  "coursePrice": 299,
+  "courseThumbnail": "https://res.cloudinary.com/di3ipwceg/image/upload/v1737676502/o0vxy6zferzuqcaey951.png",
+  "description": "<p>Kickstart your journey with Next.js! This beginner-friendly course covers all the fundamentals needed to build your first Next.js application.</p><h3><strong>What You'll Learn:</strong></h3><ul><li><strong>Basics</strong>: Static generation, server-side rendering, and page routing.</li><li><strong>Real-World Examples</strong>: Create simple, functional projects.</li><li><strong>Best Practices</strong>: Learn the essentials for clean and scalable code.</li></ul><h3><strong>Why Choose This Course?</strong></h3><p>Learn at your own pace with interactive exercises designed for beginners.</p>",
+  "subTitle": "Learn the Basics of Next.js in Easy Steps"
+},{
+  "_id": {
+    "$oid": "6792d6f8006e306d46c69fed"
+  },
+  "courseTitle": "Practical Data Science with Python",
+  "category": "Data Science",
+  "enrolledStudents": [
+    {
+      "$oid": "67922f18618ddbc86e1a1ee9"
+    }
+  ],
+  "lectures": [
+    {
+      "$oid": "679371a7006e306d46c6a040"
+    }
+  ],
+  "creator": {
+    "$oid": "6792d4b4006e306d46c69fd0"
+  },
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-01-23T23:55:36.203Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T13:04:56.242Z"
+  },
+  "__v": 1,
+  "courseLevel": "Advance",
+  "coursePrice": 698,
+  "courseThumbnail": "https://res.cloudinary.com/di3ipwceg/image/upload/v1737676709/hkwrarundlgmrfpdrtlk.webp",
+  "description": "<p>Master practical skills in data analysis, visualization, and modeling. This course is perfect for learners aiming to apply data science in real-world scenarios.</p><p><strong>What You'll Learn:</strong></p><ul><li><strong>Data Wrangling</strong>: Clean and process raw data.</li><li><strong>Visualization Tools</strong>: Present findings with Python libraries.</li><li><strong>Machine Learning</strong>: Create solutions for complex problems.</li></ul><p><strong>Why Choose This Course?</strong></p><p>Engage with real-world projects and learn from industry professionals.</p>",
+  "subTitle": "Analyze, Visualize, and Model Data for Real-World Problems"
+},{
+  "_id": {
+    "$oid": "6792d80d006e306d46c69ff4"
+  },
+  "courseTitle": "Data Science Bootcamp: From Scratch",
+  "category": "Data Science",
+  "enrolledStudents": [
+    {
+      "$oid": "67922f18618ddbc86e1a1ee9"
+    }
+  ],
+  "lectures": [
+    {
+      "$oid": "67937207006e306d46c6a056"
+    }
+  ],
+  "creator": {
+    "$oid": "6792d4b4006e306d46c69fd0"
+  },
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-01-24T00:00:13.169Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T13:05:46.093Z"
+  },
+  "__v": 1,
+  "courseLevel": "Beginner",
+  "coursePrice": 1999,
+  "courseThumbnail": "https://res.cloudinary.com/di3ipwceg/image/upload/v1737676952/qy1emhabppgq5vrp2qj7.png",
+  "description": "<p>Transform raw data into actionable insights with this all-in-one data science course. Learn Python, data visualization, and machine learning concepts step-by-step.</p><p><strong>What You'll Learn:</strong></p><ul><li><strong>Python for Data Science</strong>: Write efficient scripts for analysis.</li><li><strong>Data Visualization</strong>: Use tools to present insights effectively.</li><li><strong>Machine Learning Basics</strong>: Build predictive models with real-world datasets.</li></ul><p><strong>Why Choose This Course?</strong></p><p>Hands-on projects, detailed guidance, and community support to kickstart your data science career.</p>",
+  "subTitle": "Learn Python, Pandas, and Machine Learning Techniques"
+},{
+  "_id": {
+    "$oid": "6792d8e5006e306d46c69ffb"
+  },
+  "courseTitle": "The Ultimate Frontend Development Bootcamp",
+  "category": "Frontend Development",
+  "enrolledStudents": [
+    {
+      "$oid": "67922f18618ddbc86e1a1ee9"
+    }
+  ],
+  "lectures": [
+    {
+      "$oid": "67937242006e306d46c6a065"
+    }
+  ],
+  "creator": {
+    "$oid": "6792d4b4006e306d46c69fd0"
+  },
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-01-24T00:03:49.751Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T13:06:40.381Z"
+  },
+  "__v": 1,
+  "courseLevel": "Beginner",
+  "coursePrice": 1499,
+  "courseThumbnail": "https://res.cloudinary.com/di3ipwceg/image/upload/v1737677136/sdifyydyu5fjsjggfryz.webp",
+  "description": "<p>Master the art of frontend development with this all-in-one course. Learn to build responsive, user-friendly websites using modern tools and techniques.</p><p><strong>What You'll Learn:</strong></p><ul><li><strong>Core Skills</strong>: HTML, CSS, and JavaScript essentials.</li><li><strong>Responsive Design</strong>: Create mobile-friendly websites.</li><li><strong>Project-Based Learning</strong>: Build stunning web pages.</li></ul><p><strong>Why Choose This Course?</strong></p><p>Interactive coding challenges, expert instruction, and lifetime access to materials.</p>",
+  "subTitle": "HTML, CSS, JavaScript, and Beyond"
+},{
+  "_id": {
+    "$oid": "6792d97a006e306d46c6a002"
+  },
+  "courseTitle": "Advanced JavaScript and Modern Frontend Frameworks",
+  "category": "Frontend Development",
+  "enrolledStudents": [],
+  "lectures": [
+    {
+      "$oid": "6793726f006e306d46c6a074"
+    }
+  ],
+  "creator": {
+    "$oid": "6792d4b4006e306d46c69fd0"
+  },
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-01-24T00:06:18.473Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T10:59:02.520Z"
+  },
+  "__v": 1,
+  "courseLevel": "Advance",
+  "coursePrice": 499,
+  "courseThumbnail": "https://res.cloudinary.com/di3ipwceg/image/upload/v1737677257/xflocrvrtg2zemlj1p4n.png",
+  "description": "<p>Take your JavaScript skills to the next level and learn how to build dynamic user interfaces using React and Vue.js.</p><p><strong>What You'll Learn:</strong></p><ul><li><strong>Advanced JavaScript</strong>: Master ES6+ features.</li><li><strong>Frameworks</strong>: Build apps with React and Vue.js.</li><li><strong>Dynamic UI</strong>: Create interactive, responsive applications.</li></ul><p><strong>Why Choose This Course?</strong></p><p>Learn advanced concepts with hands-on projects and step-by-step tutorials.</p>",
+  "subTitle": "Dive Deeper into Frontend Development with React and Vue.js"
+},{
+  "_id": {
+    "$oid": "6792da0f006e306d46c6a009"
+  },
+  "courseTitle": "Fullstack Web Development: The Complete Guide",
+  "category": "Fullstack Development",
+  "enrolledStudents": [],
+  "lectures": [
+    {
+      "$oid": "67937294006e306d46c6a083"
+    },
+    {
+      "$oid": "679372ca006e306d46c6a094"
+    }
+  ],
+  "creator": {
+    "$oid": "6792d4b4006e306d46c69fd0"
+  },
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-01-24T00:08:47.117Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T11:00:31.716Z"
+  },
+  "__v": 3,
+  "courseLevel": "Medium",
+  "coursePrice": 2999,
+  "courseThumbnail": "https://res.cloudinary.com/di3ipwceg/image/upload/v1737677734/gqcpmgcnmwqhujdt8yuv.jpg",
+  "description": "<p>Master both frontend and backend technologies to create complete web applications. This course equips you with skills to integrate all layers of web development.</p><h3><strong>What You'll Learn:</strong></h3><ul><li><strong>Frontend</strong>: Build interactive UIs with HTML, CSS, and JavaScript.</li><li><strong>Backend</strong>: Learn server-side development with Node.js.</li><li><strong>Database</strong>: Integrate with MySQL and MongoDB.</li></ul><h3><strong>Why Choose This Course?</strong></h3><p>Comprehensive, project-based learning to become a fullstack developer.</p>",
+  "subTitle": "Learn Frontend, Backend, and Database Integration"
+},{
+  "_id": {
+    "$oid": "6792dbd1006e306d46c6a010"
+  },
+  "courseTitle": "Fullstack Development with React and Node.js",
+  "category": "Fullstack Development",
+  "enrolledStudents": [],
+  "lectures": [
+    {
+      "$oid": "679372e7006e306d46c6a0a1"
+    },
+    {
+      "$oid": "679372fc006e306d46c6a0a7"
+    }
+  ],
+  "creator": {
+    "$oid": "6792d4b4006e306d46c69fd0"
+  },
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-01-24T00:16:17.891Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T11:01:22.371Z"
+  },
+  "__v": 2,
+  "courseLevel": "Medium",
+  "coursePrice": 699,
+  "courseThumbnail": "https://res.cloudinary.com/di3ipwceg/image/upload/v1737677908/xdnbywygo8vndacicwv0.jpg",
+  "description": "<h3><strong>What You'll Learn:</strong></h3><ul><li><strong>React Basics</strong>: Build dynamic UIs.</li><li><strong>Node.js</strong>: Develop robust backends.</li><li><strong>API Integration</strong>: Create seamless communication between frontend and backend.</li></ul><h3><strong>Why Choose This Course?</strong></h3><p>Build real-world projects and gain industry-ready skills.</p>",
+  "subTitle": "Build Fullstack Applications from Scratch"
+},{
+  "_id": {
+    "$oid": "6793761a006e306d46c6a0f8"
+  },
+  "courseTitle": "MERN Stack Development",
+  "category": "MERN Stack Development",
+  "enrolledStudents": [],
+  "lectures": [
+    {
+      "$oid": "6793769a006e306d46c6a0ff"
+    },
+    {
+      "$oid": "679376ac006e306d46c6a105"
+    }
+  ],
+  "creator": {
+    "$oid": "67922f93618ddbc86e1a1ef0"
+  },
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-01-24T11:14:34.990Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T11:17:10.368Z"
+  },
+  "__v": 2,
+  "courseLevel": "Advance",
+  "coursePrice": 699,
+  "courseThumbnail": "https://res.cloudinary.com/di3ipwceg/image/upload/v1737717384/k4tyzwnff4qjkrmqtzpl.jpg",
+  "description": "<p>Master the MERN stack to build fully functional web applications. Learn the integration of each technology to create scalable, robust solutions.</p><p><strong>What You'll Learn:</strong></p><ul><li><strong>MongoDB</strong>: Work with NoSQL databases.</li><li><strong>React</strong>: Build dynamic, interactive UIs.</li><li><strong>Node.js &amp; Express</strong>: Develop scalable backends.</li></ul><p><strong>Why Choose This Course?</strong></p><p>Hands-on projects and expert guidance for MERN stack mastery.</p>",
+  "subTitle": "Build Fullstack Applications with MongoDB, Express, React, and Node.js"
+},{
+  "_id": {
+    "$oid": "67937706006e306d46c6a112"
+  },
+  "courseTitle": "Python for Absolute Beginners",
+  "category": "Python",
+  "enrolledStudents": [],
+  "lectures": [
+    {
+      "$oid": "67937765006e306d46c6a119"
+    },
+    {
+      "$oid": "67937770006e306d46c6a11f"
+    }
+  ],
+  "creator": {
+    "$oid": "67922f93618ddbc86e1a1ef0"
+  },
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-01-24T11:18:30.690Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T11:20:31.133Z"
+  },
+  "__v": 2,
+  "courseLevel": "Beginner",
+  "coursePrice": 299,
+  "courseThumbnail": "https://res.cloudinary.com/di3ipwceg/image/upload/v1737717589/ffmxccz1dieayb6m1au1.png",
+  "description": "<p>Start your programming journey with Python! This beginner-friendly course teaches the fundamentals through practical, easy-to-follow lessons.</p><p><strong>What You'll Learn:</strong></p><ul><li><strong>Basics</strong>: Variables, data types, and loops.</li><li><strong>Core Concepts</strong>: Functions and file handling.</li><li><strong>Hands-On Projects</strong>: Apply your skills to real-world examples.</li></ul><p><strong>Why Choose This Course?</strong></p><p>Interactive exercises and projects ensure you build a strong foundation.</p>",
+  "subTitle": "Learn Python Programming from Scratch"
+},{
+  "_id": {
+    "$oid": "6793779b006e306d46c6a12c"
+  },
+  "courseTitle": "Docker for Beginners",
+  "category": "Docker",
+  "enrolledStudents": [],
+  "lectures": [
+    {
+      "$oid": "6793780a006e306d46c6a134"
+    }
+  ],
+  "creator": {
+    "$oid": "67922f93618ddbc86e1a1ef0"
+  },
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-01-24T11:20:59.183Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T11:22:57.889Z"
+  },
+  "__v": 1,
+  "courseLevel": "Beginner",
+  "coursePrice": 496,
+  "courseThumbnail": "https://res.cloudinary.com/di3ipwceg/image/upload/v1737717757/myiv092rutek0dn3ikmq.jpg",
+  "description": "<p>Learn Docker basics and understand how to containerize applications for consistent and scalable deployment across environments.</p><p><strong>What You'll Learn:</strong></p><ul><li><strong>Docker Essentials</strong>: Containers, images, and volumes.</li><li><strong>Practical Examples</strong>: Deploy containerized apps.</li><li><strong>Best Practices</strong>: Efficient Docker workflows.</li></ul><p><strong>Why Choose This Course?</strong></p><p>Interactive examples and projects to get you started quickly.</p>",
+  "subTitle": "Containerize Applications with Ease"
+},{
+  "_id": {
+    "$oid": "67937839006e306d46c6a141"
+  },
+  "courseTitle": "Advanced MongoDB: Performance and Scalability",
+  "category": "MongoDB",
+  "enrolledStudents": [],
+  "lectures": [
+    {
+      "$oid": "6793789b006e306d46c6a148"
+    }
+  ],
+  "creator": {
+    "$oid": "67922f93618ddbc86e1a1ef0"
+  },
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-01-24T11:23:37.690Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T11:25:21.621Z"
+  },
+  "__v": 1,
+  "courseLevel": "Advance",
+  "coursePrice": 899,
+  "courseThumbnail": "https://res.cloudinary.com/di3ipwceg/image/upload/v1737717880/zyevu88jsjzewncgplgd.jpg",
+  "description": "<p>Learn to handle large datasets and improve database performance using advanced MongoDB techniques like sharding and replication.</p><p><strong>What You'll Learn:</strong></p><ul><li><strong>Optimization</strong>: Indexing and query tuning.</li><li><strong>Scalability</strong>: Sharding and horizontal scaling.</li><li><strong>Data Management</strong>: Backup and recovery strategies.</li></ul><p><strong>Why Choose This Course?</strong></p><p>Gain real-world expertise with industry best practices.</p>",
+  "subTitle": "Optimize and Scale Your MongoDB Applications"
+},{
+  "_id": {
+    "$oid": "6794c7cdacf8bd68c27fc278"
+  },
+  "courseTitle": "Basics of HTML",
+  "category": "HTML",
+  "enrolledStudents": [
+    {
+      "$oid": "67922f18618ddbc86e1a1ee9"
+    }
+  ],
+  "lectures": [
+    {
+      "$oid": "6794c837acf8bd68c27fc27f"
+    },
+    {
+      "$oid": "6794c83facf8bd68c27fc285"
+    },
+    {
+      "$oid": "6794c845acf8bd68c27fc28b"
+    },
+    {
+      "$oid": "6794c84cacf8bd68c27fc291"
+    },
+    {
+      "$oid": "6794c853acf8bd68c27fc297"
+    },
+    {
+      "$oid": "6794c85bacf8bd68c27fc29d"
+    }
+  ],
+  "creator": {
+    "$oid": "6792d4b4006e306d46c69fd0"
+  },
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-01-25T11:15:26.012Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-25T11:27:39.989Z"
+  },
+  "__v": 6,
+  "courseLevel": "Beginner",
+  "coursePrice": 199,
+  "courseThumbnail": "https://res.cloudinary.com/di3ipwceg/image/upload/v1737803806/ac8uxnt6fkiyvmrgjzkd.webp",
+  "description": "<p>Get started with web development by mastering the fundamentals of HTML! This course is designed for complete beginners who want to learn how to create and structure modern web pages. Whether you’re pursuing a career in tech or building a personal project, this course will help you take the first step.</p><p><br></p><h3>What You Will Learn:</h3><p>HTML syntax and how to structure web pages.</p><p>Adding and formatting text, images, links, and multimedia.</p><p>Creating tables, forms, and navigation menus.</p><p>Understanding semantic HTML for better accessibility and SEO.</p><p>Best practices for clean, efficient HTML code.</p><p><br></p><h3>Why Choose This Course?</h3><p>Beginner-friendly with no prior coding knowledge needed.</p><p>Step-by-step guidance and hands-on examples.</p><p>Build real-world projects to showcase your skills.</p><p>Learn the essential building block of web development used by every developer.</p><p>Start learning today and unlock the potential to create amazing websites!</p><p><br></p>",
+  "subTitle": "Master the Building Blocks of Web Development: A Beginner's Guide to HTML"
+}]

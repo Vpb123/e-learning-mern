@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "67929892006e306d46c69dd1"
+  },
+  "courseId": {
+    "$oid": "6792310d618ddbc86e1a1efe"
+  },
+  "userId": {
+    "$oid": "67925b198fb99492b5ac8a9a"
+  },
+  "amount": 200,
+  "status": "completed",
+  "paymentId": "cs_test_a1ZNHXp28YtXAgTUy1JpfYpRjB17iwRhMMtIDwK3oAlsvg8u3LcoBF8wCG",
+  "createdAt": {
+    "$date": "2025-01-23T19:29:23.487Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-23T19:30:40.627Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6792b600006e306d46c69f9f"
+  },
+  "courseId": {
+    "$oid": "6792310d618ddbc86e1a1efe"
+  },
+  "userId": {
+    "$oid": "6792b555006e306d46c69f91"
+  },
+  "amount": 499,
+  "status": "completed",
+  "paymentId": "cs_test_a1POCxYcAvarxlaUAKbPHCfTyewOm3IiIj9jXvpm337qSVnHZZe0AiDD3r",
+  "createdAt": {
+    "$date": "2025-01-23T21:34:56.990Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-23T21:35:55.415Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67938ee3006e306d46c6a183"
+  },
+  "courseId": {
+    "$oid": "6792310d618ddbc86e1a1efe"
+  },
+  "userId": {
+    "$oid": "67922f18618ddbc86e1a1ee9"
+  },
+  "amount": 499,
+  "status": "completed",
+  "paymentId": "cs_test_a1Sa8Lr4HWlWj1TfkIQAfjfkkw5B22wAoJ1bM70MzL52n8tLNUpuLVtho0",
+  "createdAt": {
+    "$date": "2025-01-24T13:00:21.723Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T13:01:20.430Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67938f4e006e306d46c6a19d"
+  },
+  "courseId": {
+    "$oid": "6792d596006e306d46c69fdc"
+  },
+  "userId": {
+    "$oid": "67922f18618ddbc86e1a1ee9"
+  },
+  "amount": 499,
+  "status": "completed",
+  "paymentId": "cs_test_a1MmRtUr3pq454N8IZpwCwhaUqbmxvFbbPZjiMMMfNohy38E5EwmPwa7CE",
+  "createdAt": {
+    "$date": "2025-01-24T13:02:07.443Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T13:02:51.901Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67938f99006e306d46c6a1b7"
+  },
+  "courseId": {
+    "$oid": "6792d654006e306d46c69fe6"
+  },
+  "userId": {
+    "$oid": "67922f18618ddbc86e1a1ee9"
+  },
+  "amount": 299,
+  "status": "completed",
+  "paymentId": "cs_test_a1t3ItEa0y6PmjRKNW0zSYN29Qd9jTxtyDEA1KXwTqAg4iI4fYZ0Hp2O6V",
+  "createdAt": {
+    "$date": "2025-01-24T13:03:22.888Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T13:04:11.326Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67938fd5006e306d46c6a1d1"
+  },
+  "courseId": {
+    "$oid": "6792d6f8006e306d46c69fed"
+  },
+  "userId": {
+    "$oid": "67922f18618ddbc86e1a1ee9"
+  },
+  "amount": 698,
+  "status": "completed",
+  "paymentId": "cs_test_a17Ha8cJmjvWZpPWX3ipv3cxj7VEORhrW3PEFdpRntTr7RZ1PClI1DVSER",
+  "createdAt": {
+    "$date": "2025-01-24T13:04:21.561Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T13:04:56.233Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67939004006e306d46c6a1eb"
+  },
+  "courseId": {
+    "$oid": "6792d80d006e306d46c69ff4"
+  },
+  "userId": {
+    "$oid": "67922f18618ddbc86e1a1ee9"
+  },
+  "amount": 1999,
+  "status": "completed",
+  "paymentId": "cs_test_a1ZnEN7tZ1N55IdixZOV165SEX64X4pDyQBTVCm3XDKU5dlmRs29Hm2piR",
+  "createdAt": {
+    "$date": "2025-01-24T13:05:10.234Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T13:05:46.080Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67939040006e306d46c6a205"
+  },
+  "courseId": {
+    "$oid": "6792d8e5006e306d46c69ffb"
+  },
+  "userId": {
+    "$oid": "67922f18618ddbc86e1a1ee9"
+  },
+  "amount": 1499,
+  "status": "completed",
+  "paymentId": "cs_test_a1g9rL4R3VlakXewLavGgkU33bpDSWHBRwZVlEBRDEAbc2ThB4bYukaxta",
+  "createdAt": {
+    "$date": "2025-01-24T13:06:09.435Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T13:06:40.362Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6794ca7facf8bd68c27fc2f6"
+  },
+  "courseId": {
+    "$oid": "6794c7cdacf8bd68c27fc278"
+  },
+  "userId": {
+    "$oid": "67922f18618ddbc86e1a1ee9"
+  },
+  "amount": 199,
+  "status": "completed",
+  "paymentId": "cs_test_a1f9ObGdYMnFuSkhXyKXd89VmBDPZXXBUdQhtFBTBGwXtQW3r2Fll8Vsp3",
+  "createdAt": {
+    "$date": "2025-01-25T11:26:56.404Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-25T11:27:39.964Z"
+  },
+  "__v": 0
+}]

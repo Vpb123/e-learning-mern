@@ -1,0 +1,364 @@
+[{
+  "_id": {
+    "$oid": "6793f04eb83080181814f4dd"
+  },
+  "courseId": {
+    "$oid": "67937706006e306d46c6a112"
+  },
+  "questions": [
+    {
+      "questionText": "Inside which HTML element do we put the JavaScript?",
+      "options": [
+        {
+          "optionText": "<script>",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6793f04eb83080181814f4df"
+          }
+        },
+        {
+          "optionText": "<scripting>",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6793f04eb83080181814f4e0"
+          }
+        },
+        {
+          "optionText": "<js>",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6793f04eb83080181814f4e1"
+          }
+        }
+      ],
+      "marks": 50,
+      "_id": {
+        "$oid": "6793f04eb83080181814f4de"
+      }
+    },
+    {
+      "questionText": "How to loop an array in JavaScript",
+      "options": [
+        {
+          "optionText": "using forEach",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6793f04eb83080181814f4e3"
+          }
+        },
+        {
+          "optionText": "using for...in",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6793f04eb83080181814f4e4"
+          }
+        },
+        {
+          "optionText": "using standard for loop",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6793f04eb83080181814f4e5"
+          }
+        },
+        {
+          "optionText": "All of these",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6793f04eb83080181814f4e6"
+          }
+        }
+      ],
+      "marks": 50,
+      "_id": {
+        "$oid": "6793f04eb83080181814f4e2"
+      }
+    }
+  ],
+  "passingMarks": 50,
+  "createdBy": {
+    "$oid": "67922f93618ddbc86e1a1ef0"
+  },
+  "createdAt": {
+    "$date": "2025-01-24T19:55:58.306Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6793feecb83080181814f53e"
+  },
+  "courseId": {
+    "$oid": "6792310d618ddbc86e1a1efe"
+  },
+  "questions": [
+    {
+      "questionText": "How to Loop in JavaScript?",
+      "options": [
+        {
+          "optionText": "Using for loop",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6793feecb83080181814f540"
+          }
+        },
+        {
+          "optionText": "Using forEach loop",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6793feecb83080181814f541"
+          }
+        },
+        {
+          "optionText": "All of these",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6793feecb83080181814f542"
+          }
+        }
+      ],
+      "marks": 50,
+      "_id": {
+        "$oid": "6793feecb83080181814f53f"
+      }
+    },
+    {
+      "questionText": "How to use JavaScript in HTML?",
+      "options": [
+        {
+          "optionText": "<script>",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6793feecb83080181814f544"
+          }
+        },
+        {
+          "optionText": "<scripting>",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6793feecb83080181814f545"
+          }
+        },
+        {
+          "optionText": "<js>",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6793feecb83080181814f546"
+          }
+        },
+        {
+          "optionText": "<JavaScript>",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6793feecb83080181814f547"
+          }
+        }
+      ],
+      "marks": 50,
+      "_id": {
+        "$oid": "6793feecb83080181814f543"
+      }
+    }
+  ],
+  "passingMarks": 50,
+  "createdBy": {
+    "$oid": "67922f93618ddbc86e1a1ef0"
+  },
+  "createdAt": {
+    "$date": "2025-01-24T20:58:20.177Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6794c9c9acf8bd68c27fc2bd"
+  },
+  "courseId": {
+    "$oid": "6794c7cdacf8bd68c27fc278"
+  },
+  "questions": [
+    {
+      "questionText": "What does HTML stand for?",
+      "options": [
+        {
+          "optionText": "HyperText Markup Language",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6794c9c9acf8bd68c27fc2bf"
+          }
+        },
+        {
+          "optionText": "HighText Machine Language",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6794c9c9acf8bd68c27fc2c0"
+          }
+        },
+        {
+          "optionText": "Hyperlink Markup Language",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6794c9c9acf8bd68c27fc2c1"
+          }
+        },
+        {
+          "optionText": "Hyperlink and Text Marking Language",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6794c9c9acf8bd68c27fc2c2"
+          }
+        }
+      ],
+      "marks": 20,
+      "_id": {
+        "$oid": "6794c9c9acf8bd68c27fc2be"
+      }
+    },
+    {
+      "questionText": "Which tag is used to create a hyperlink in HTML?",
+      "options": [
+        {
+          "optionText": "<link>",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6794c9c9acf8bd68c27fc2c4"
+          }
+        },
+        {
+          "optionText": "<a>",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6794c9c9acf8bd68c27fc2c5"
+          }
+        },
+        {
+          "optionText": "<href>",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6794c9c9acf8bd68c27fc2c6"
+          }
+        },
+        {
+          "optionText": "<anchor>",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6794c9c9acf8bd68c27fc2c7"
+          }
+        }
+      ],
+      "marks": 20,
+      "_id": {
+        "$oid": "6794c9c9acf8bd68c27fc2c3"
+      }
+    },
+    {
+      "questionText": "Which attribute is used to specify the source of an image in the <img> tag?",
+      "options": [
+        {
+          "optionText": "href",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6794c9c9acf8bd68c27fc2c9"
+          }
+        },
+        {
+          "optionText": "src",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6794c9c9acf8bd68c27fc2ca"
+          }
+        },
+        {
+          "optionText": "alt",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6794c9c9acf8bd68c27fc2cb"
+          }
+        },
+        {
+          "optionText": "link",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6794c9c9acf8bd68c27fc2cc"
+          }
+        }
+      ],
+      "marks": 20,
+      "_id": {
+        "$oid": "6794c9c9acf8bd68c27fc2c8"
+      }
+    },
+    {
+      "questionText": "Which HTML element is used to define the largest heading?",
+      "options": [
+        {
+          "optionText": "<h1>",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6794c9c9acf8bd68c27fc2ce"
+          }
+        },
+        {
+          "optionText": "<heading>",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6794c9c9acf8bd68c27fc2cf"
+          }
+        },
+        {
+          "optionText": "<head>",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6794c9c9acf8bd68c27fc2d0"
+          }
+        },
+        {
+          "optionText": "<h6>",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6794c9c9acf8bd68c27fc2d1"
+          }
+        }
+      ],
+      "marks": 20,
+      "_id": {
+        "$oid": "6794c9c9acf8bd68c27fc2cd"
+      }
+    },
+    {
+      "questionText": " What is the correct way to add a comment in HTML?",
+      "options": [
+        {
+          "optionText": "<!-- This is a comment -->",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6794c9c9acf8bd68c27fc2d3"
+          }
+        },
+        {
+          "optionText": "// This is a comment",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6794c9c9acf8bd68c27fc2d4"
+          }
+        },
+        {
+          "optionText": "/* This is a comment */",
+          "isCorrect": false,
+          "_id": {
+            "$oid": "6794c9c9acf8bd68c27fc2d5"
+          }
+        }
+      ],
+      "marks": 20,
+      "_id": {
+        "$oid": "6794c9c9acf8bd68c27fc2d2"
+      }
+    }
+  ],
+  "passingMarks": 80,
+  "createdBy": {
+    "$oid": "6792d4b4006e306d46c69fd0"
+  },
+  "createdAt": {
+    "$date": "2025-01-25T11:23:53.942Z"
+  },
+  "__v": 0
+}]

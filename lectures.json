@@ -1,0 +1,347 @@
+[{
+  "_id": {
+    "$oid": "6792370c618ddbc86e1a1f1a"
+  },
+  "lectureTitle": "What is JavaScript",
+  "createdAt": {
+    "$date": "2025-01-23T12:33:16.144Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T13:01:20.396Z"
+  },
+  "__v": 0,
+  "isPreviewFree": true,
+  "publicId": "mp7qy051jela0enekeng",
+  "videoUrl": "http://res.cloudinary.com/di3ipwceg/video/upload/v1737667425/mp7qy051jela0enekeng.mp4"
+},{
+  "_id": {
+    "$oid": "6792373f618ddbc86e1a1f24"
+  },
+  "lectureTitle": "Running JavaScript on Server",
+  "createdAt": {
+    "$date": "2025-01-23T12:34:07.317Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T13:01:20.396Z"
+  },
+  "__v": 0,
+  "isPreviewFree": true,
+  "publicId": "dykfuk5ijg1tzxr5ms8b",
+  "videoUrl": "http://res.cloudinary.com/di3ipwceg/video/upload/v1737667487/dykfuk5ijg1tzxr5ms8b.mp4"
+},{
+  "_id": {
+    "$oid": "67923763618ddbc86e1a1f2e"
+  },
+  "lectureTitle": "JavaScript: Data Types and Variables",
+  "createdAt": {
+    "$date": "2025-01-23T12:34:43.701Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T13:01:20.396Z"
+  },
+  "__v": 0,
+  "isPreviewFree": true,
+  "publicId": "ss7v30swuzph1pzzod63",
+  "videoUrl": "http://res.cloudinary.com/di3ipwceg/video/upload/v1737667523/ss7v30swuzph1pzzod63.mp4"
+},{
+  "_id": {
+    "$oid": "67937011006e306d46c6a01d"
+  },
+  "lectureTitle": "What is Next.Js?",
+  "createdAt": {
+    "$date": "2025-01-24T10:48:49.441Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T13:02:51.891Z"
+  },
+  "__v": 0,
+  "isPreviewFree": true
+},{
+  "_id": {
+    "$oid": "67937135006e306d46c6a02d"
+  },
+  "lectureTitle": "What is Next Js?",
+  "createdAt": {
+    "$date": "2025-01-24T10:53:41.085Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T13:04:11.319Z"
+  },
+  "__v": 0,
+  "isPreviewFree": true,
+  "publicId": "fybcc9ix0kusayhyggze",
+  "videoUrl": "http://res.cloudinary.com/di3ipwceg/video/upload/v1737716089/fybcc9ix0kusayhyggze.mp4"
+},{
+  "_id": {
+    "$oid": "679371a7006e306d46c6a040"
+  },
+  "lectureTitle": "Python - The Basics",
+  "createdAt": {
+    "$date": "2025-01-24T10:55:35.550Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T13:04:56.227Z"
+  },
+  "__v": 0,
+  "isPreviewFree": true
+},{
+  "_id": {
+    "$oid": "67937207006e306d46c6a056"
+  },
+  "lectureTitle": "Why Learn Data Science",
+  "createdAt": {
+    "$date": "2025-01-24T10:57:11.253Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T13:05:46.058Z"
+  },
+  "__v": 0,
+  "isPreviewFree": true
+},{
+  "_id": {
+    "$oid": "67937242006e306d46c6a065"
+  },
+  "lectureTitle": "Kicking start with the basic tecnologies",
+  "createdAt": {
+    "$date": "2025-01-24T10:58:10.105Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T13:06:40.355Z"
+  },
+  "__v": 0,
+  "isPreviewFree": true
+},{
+  "_id": {
+    "$oid": "6793726f006e306d46c6a074"
+  },
+  "lectureTitle": "Introduction to JavaScript Frameworks",
+  "createdAt": {
+    "$date": "2025-01-24T10:58:55.583Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T10:58:55.583Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67937294006e306d46c6a083"
+  },
+  "lectureTitle": "Welcome to the Full Stack Learning Bootcamp",
+  "createdAt": {
+    "$date": "2025-01-24T10:59:32.129Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T10:59:32.129Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "679372ca006e306d46c6a094"
+  },
+  "lectureTitle": "Pre-requisites and brushing up",
+  "createdAt": {
+    "$date": "2025-01-24T11:00:26.223Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T11:00:26.223Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "679372e7006e306d46c6a0a1"
+  },
+  "lectureTitle": "What is React and Node?",
+  "createdAt": {
+    "$date": "2025-01-24T11:00:55.374Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T11:00:55.374Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "679372fc006e306d46c6a0a7"
+  },
+  "lectureTitle": "Creating your first react project",
+  "createdAt": {
+    "$date": "2025-01-24T11:01:16.234Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T11:01:16.234Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6793769a006e306d46c6a0ff"
+  },
+  "lectureTitle": "What is MERN stack?",
+  "createdAt": {
+    "$date": "2025-01-24T11:16:42.300Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T11:16:42.300Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "679376ac006e306d46c6a105"
+  },
+  "lectureTitle": "Deep Diving in the terms",
+  "createdAt": {
+    "$date": "2025-01-24T11:17:00.867Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T11:17:00.867Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67937765006e306d46c6a119"
+  },
+  "lectureTitle": "What is Python?",
+  "createdAt": {
+    "$date": "2025-01-24T11:20:05.923Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T11:20:05.923Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67937770006e306d46c6a11f"
+  },
+  "lectureTitle": "Python - The Basics",
+  "createdAt": {
+    "$date": "2025-01-24T11:20:16.321Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T11:20:16.321Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6793780a006e306d46c6a134"
+  },
+  "lectureTitle": "What is Docker?",
+  "createdAt": {
+    "$date": "2025-01-24T11:22:50.363Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T11:22:50.363Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6793789b006e306d46c6a148"
+  },
+  "lectureTitle": "Brushing up the basics",
+  "createdAt": {
+    "$date": "2025-01-24T11:25:15.147Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T11:25:15.147Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6794ba80acf8bd68c27fc245"
+  },
+  "lectureTitle": "html",
+  "createdAt": {
+    "$date": "2025-01-25T10:18:40.480Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-25T10:18:40.480Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6794c837acf8bd68c27fc27f"
+  },
+  "lectureTitle": "Introduction to HTML",
+  "createdAt": {
+    "$date": "2025-01-25T11:17:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-25T11:27:39.936Z"
+  },
+  "__v": 0,
+  "isPreviewFree": true,
+  "publicId": "bzig8lbyjmrcwvcstavx",
+  "videoUrl": "http://res.cloudinary.com/di3ipwceg/video/upload/v1737803896/bzig8lbyjmrcwvcstavx.mp4"
+},{
+  "_id": {
+    "$oid": "6794c83facf8bd68c27fc285"
+  },
+  "lectureTitle": "Create First Web Page",
+  "createdAt": {
+    "$date": "2025-01-25T11:17:19.069Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-25T11:27:39.936Z"
+  },
+  "__v": 0,
+  "publicId": "gvecmlghpes0zdtwed4x",
+  "videoUrl": "http://res.cloudinary.com/di3ipwceg/video/upload/v1737803932/gvecmlghpes0zdtwed4x.mp4",
+  "isPreviewFree": true
+},{
+  "_id": {
+    "$oid": "6794c845acf8bd68c27fc28b"
+  },
+  "lectureTitle": "Line breaks, spacing and comment",
+  "createdAt": {
+    "$date": "2025-01-25T11:17:25.704Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-25T11:27:39.936Z"
+  },
+  "__v": 0,
+  "publicId": "ji00tojjdiv24u9zvvdb",
+  "videoUrl": "http://res.cloudinary.com/di3ipwceg/video/upload/v1737803950/ji00tojjdiv24u9zvvdb.mp4",
+  "isPreviewFree": true
+},{
+  "_id": {
+    "$oid": "6794c84cacf8bd68c27fc291"
+  },
+  "lectureTitle": "Ordered and Unordered lists",
+  "createdAt": {
+    "$date": "2025-01-25T11:17:32.101Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-25T11:27:39.936Z"
+  },
+  "__v": 0,
+  "publicId": "imvc8jjapf2or1ryapjc",
+  "videoUrl": "http://res.cloudinary.com/di3ipwceg/video/upload/v1737803966/imvc8jjapf2or1ryapjc.mp4",
+  "isPreviewFree": true
+},{
+  "_id": {
+    "$oid": "6794c853acf8bd68c27fc297"
+  },
+  "lectureTitle": "Creating a table",
+  "createdAt": {
+    "$date": "2025-01-25T11:17:39.430Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-25T11:27:39.936Z"
+  },
+  "__v": 0,
+  "publicId": "hophimpuujmwjdrnyubg",
+  "videoUrl": "http://res.cloudinary.com/di3ipwceg/video/upload/v1737803983/hophimpuujmwjdrnyubg.mp4",
+  "isPreviewFree": true
+},{
+  "_id": {
+    "$oid": "6794c85bacf8bd68c27fc29d"
+  },
+  "lectureTitle": "Creating a weblink",
+  "createdAt": {
+    "$date": "2025-01-25T11:17:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-25T11:27:39.936Z"
+  },
+  "__v": 0,
+  "publicId": "jjvfaajjaqnu1hywexal",
+  "videoUrl": "http://res.cloudinary.com/di3ipwceg/video/upload/v1737803998/jjvfaajjaqnu1hywexal.mp4",
+  "isPreviewFree": true
+}]

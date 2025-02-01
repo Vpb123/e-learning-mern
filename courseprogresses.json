@@ -1,0 +1,177 @@
+[{
+  "_id": {
+    "$oid": "679277cffe971dce86707476"
+  },
+  "userId": "67925b198fb99492b5ac8a9a",
+  "courseId": "6792310d618ddbc86e1a1efe",
+  "completed": false,
+  "lectureProgress": [
+    {
+      "lectureId": "67923362618ddbc86e1a1f0b",
+      "viewed": true,
+      "_id": {
+        "$oid": "679277cffe971dce86707477"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6792ac93006e306d46c69e82"
+  },
+  "userId": "67922f18618ddbc86e1a1ee9",
+  "courseId": "67929c3f006e306d46c69e12",
+  "completed": true,
+  "lectureProgress": [
+    {
+      "lectureId": "6792a715006e306d46c69e1c",
+      "viewed": true,
+      "_id": {
+        "$oid": "6792ac93006e306d46c69e83"
+      }
+    },
+    {
+      "lectureId": "6792a722006e306d46c69e22",
+      "viewed": true,
+      "_id": {
+        "$oid": "6792ac97006e306d46c69e8c"
+      }
+    },
+    {
+      "lectureId": "6792a740006e306d46c69e28",
+      "viewed": true,
+      "_id": {
+        "$oid": "6792ac9f006e306d46c69ea1"
+      }
+    },
+    {
+      "lectureId": "6792a750006e306d46c69e2e",
+      "viewed": true,
+      "_id": {
+        "$oid": "6792acd0006e306d46c69ef6"
+      }
+    },
+    {
+      "lectureId": "6792a762006e306d46c69e34",
+      "viewed": true,
+      "_id": {
+        "$oid": "6792acd3006e306d46c69f05"
+      }
+    },
+    {
+      "lectureId": "6792a768006e306d46c69e3a",
+      "viewed": true,
+      "_id": {
+        "$oid": "6792acd5006e306d46c69f16"
+      }
+    }
+  ],
+  "__v": 5
+},{
+  "_id": {
+    "$oid": "6792b64c006e306d46c69fb3"
+  },
+  "userId": "6792b555006e306d46c69f91",
+  "courseId": "6792310d618ddbc86e1a1efe",
+  "completed": false,
+  "lectureProgress": [
+    {
+      "lectureId": "6792370c618ddbc86e1a1f1a",
+      "viewed": true,
+      "_id": {
+        "$oid": "6792b64c006e306d46c69fb4"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6793fbdeb83080181814f503"
+  },
+  "userId": "67922f18618ddbc86e1a1ee9",
+  "courseId": "6792310d618ddbc86e1a1efe",
+  "completed": true,
+  "lectureProgress": [
+    {
+      "lectureId": "67923362618ddbc86e1a1f0b",
+      "viewed": true,
+      "_id": {
+        "$oid": "6793fbdeb83080181814f504"
+      }
+    },
+    {
+      "lectureId": "6792370c618ddbc86e1a1f1a",
+      "viewed": true,
+      "_id": {
+        "$oid": "6793fbe1b83080181814f50d"
+      }
+    },
+    {
+      "lectureId": "6792373f618ddbc86e1a1f24",
+      "viewed": true,
+      "_id": {
+        "$oid": "6793fbe3b83080181814f518"
+      }
+    },
+    {
+      "lectureId": "67923763618ddbc86e1a1f2e",
+      "viewed": true,
+      "_id": {
+        "$oid": "6793fbe5b83080181814f525"
+      }
+    }
+  ],
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "6794cab9acf8bd68c27fc30a"
+  },
+  "userId": "67922f18618ddbc86e1a1ee9",
+  "courseId": "6794c7cdacf8bd68c27fc278",
+  "completed": true,
+  "lectureProgress": [
+    {
+      "lectureId": "6794c837acf8bd68c27fc27f",
+      "viewed": true,
+      "_id": {
+        "$oid": "6794cabcacf8bd68c27fc30b"
+      }
+    },
+    {
+      "lectureId": "6794c83facf8bd68c27fc285",
+      "viewed": true,
+      "_id": {
+        "$oid": "6794cac1acf8bd68c27fc314"
+      }
+    },
+    {
+      "lectureId": "6794c84cacf8bd68c27fc291",
+      "viewed": true,
+      "_id": {
+        "$oid": "6794cacdacf8bd68c27fc329"
+      }
+    },
+    {
+      "lectureId": "6794c845acf8bd68c27fc28b",
+      "viewed": true,
+      "_id": {
+        "$oid": "6794cad5acf8bd68c27fc342"
+      }
+    },
+    {
+      "lectureId": "6794c853acf8bd68c27fc297",
+      "viewed": true,
+      "_id": {
+        "$oid": "6794cad7acf8bd68c27fc351"
+      }
+    },
+    {
+      "lectureId": "6794c85bacf8bd68c27fc29d",
+      "viewed": true,
+      "_id": {
+        "$oid": "6794cad9acf8bd68c27fc362"
+      }
+    }
+  ],
+  "__v": 5
+}]
